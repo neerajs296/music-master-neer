@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/neerajs296/music-master-neer.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/neerajs296/music-master-neer.git/static/js/main.67dcdf0d.chunk.js",
+    "main.js.map": "/neerajs296/music-master-neer.git/static/js/main.67dcdf0d.chunk.js.map",
+    "runtime-main.js": "/neerajs296/music-master-neer.git/static/js/runtime-main.69cc6806.js",
+    "runtime-main.js.map": "/neerajs296/music-master-neer.git/static/js/runtime-main.69cc6806.js.map",
+    "static/js/2.ce363c69.chunk.js": "/neerajs296/music-master-neer.git/static/js/2.ce363c69.chunk.js",
+    "static/js/2.ce363c69.chunk.js.map": "/neerajs296/music-master-neer.git/static/js/2.ce363c69.chunk.js.map",
+    "index.html": "/neerajs296/music-master-neer.git/index.html",
+    "precache-manifest.e497d8807f74445cdbeaf01ee26572e3.js": "/neerajs296/music-master-neer.git/precache-manifest.e497d8807f74445cdbeaf01ee26572e3.js",
+    "service-worker.js": "/neerajs296/music-master-neer.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/neerajs296/music-master-neer.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ce363c69.chunk.js.LICENSE.txt": "/neerajs296/music-master-neer.git/static/js/2.ce363c69.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/neerajs296/music-master-neer.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69cc6806.js",
+    "static/js/2.ce363c69.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.67dcdf0d.chunk.js"
+  ]
+}
